@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Burp Suite,Nmap,Wireshark,Metasploit,GitHub,VS Code&perline=14" />
+    <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,metasploit,github,vscode&perline=14" />
   </a>
 </p>
 <br>
