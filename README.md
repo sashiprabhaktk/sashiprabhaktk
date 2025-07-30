@@ -70,6 +70,6 @@
 
 <p align="center">
   💬 <strong>"Cybersecurity is not just a job – it's a mindset."</strong><br>
-  — <em>Cyber with KT</em> 🧠
+  — <em>Cyber with KT</em> 
 </p>
 
