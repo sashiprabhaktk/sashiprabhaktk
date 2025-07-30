@@ -1,3 +1,13 @@
+<br>
+
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=38bdae&center=true&width=520&lines=I%27m+Sashiprabha+KTK;Aspiring+Cybersecurity;CTF+Player;Learning+Pentesting+%7C+Web+%7C+Security+%7C+Python" alt="Typing SVG" /></a></p>
+<hr>
+
+<hr>
+
+
+
 <h1 align="center">Hi 👋, I'm Sashiprabha KTK</h1>
 <h3 align="center">A passionate Cyber Security from Sri Lanka</h3>
 
