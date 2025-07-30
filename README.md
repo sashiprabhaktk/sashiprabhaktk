@@ -8,10 +8,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sashiprabhaktk&label=Profile%20views&color=0e75b6&style=flat" alt="sashiprabhaktk" /> </p>
 
-- 🔭 I’m currently working on **Web vulnerability scanner extension**
-
-- 📫 How to reach me **sashiprabhaktk@gmail.com**
-
+- 🎓 CyberSec Undergraduate @ SLTC in Sri Lanka
+- 🛡️ Aspiring Ethical Hacker & Penetration Tester
+- 🧠 Always learning: Currently exploring **Browser-based vulnerability scanners**, and **real-world hacking labs**
+- 🥷 Top 4% on TryHackMe | Active CTF Player
+- ✍️ Sharing knowledge via [GitBook](#)
 - ⚡ Fun fact **Call me as KT**
 
 <h3 align="left">Connect with me:</h3>
