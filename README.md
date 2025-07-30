@@ -105,4 +105,5 @@
   
 </p>
 
-
+💬 **“Cybersecurity is not just a job – it's a mindset.”**
+<br>— Cyber with KT
