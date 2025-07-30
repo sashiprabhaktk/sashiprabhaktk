@@ -51,7 +51,7 @@
 
 
 
-<hr>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -67,5 +67,13 @@
 </p>
 <hr>
 
-<center>💬 **"Cybersecurity is not just a job – it's a mindset."**
-<br>— Cyber with KT </center>
+
+<!-- Quote Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=💬+%22Cybersecurity+is+not+just+a+job+–+it's+a+mindset.%22" alt="Cybersecurity mindset quote" />
+</p>
+
+<p align="center">
+  — <strong>Cyber with KT</strong> 🧠
+</p>
+
