@@ -6,11 +6,6 @@
 
 
 
-
-
-<h1 align="center">Hi 👋, I'm Sashiprabha KTK</h1>
-<h3 align="center">A passionate Cyber Security from Sri Lanka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashiprabhaktk&label=Profile%20views&color=0e75b6&style=flat" alt="sashiprabhaktk" /> </p>
 
 - 🔭 I’m currently working on **Web vulnerability scanner extension**
