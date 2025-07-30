@@ -37,13 +37,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tools and Frameworks</h2></summary>
+    <summary><h2 style="display: inline-block">Know These Technologies</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,metasploit,github,vscode,linux,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,linux,discord&perline=14" />
   </a>
 </p>
 <br>
@@ -68,12 +68,8 @@
 <hr>
 
 
-<!-- Quote Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=💬+%22Cybersecurity+is+not+just+a+job+–+it's+a+mindset.%22" alt="Cybersecurity mindset quote" />
-</p>
-
-<p align="center">
-  — <strong>Cyber with KT</strong> 🧠
+  💬 <strong>"Cybersecurity is not just a job – it's a mindset."</strong><br>
+  — <em>Cyber with KT</em> 🧠
 </p>
 
